@@ -20,7 +20,7 @@
 
 ## Bronnen 
 
-[Bronnen](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
+[SDG Goals](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
 
 ## Licentie
 
