@@ -21,6 +21,7 @@
 ## Bronnen 
 
 [SDG Goals](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
+[Donut Economics Explained](https://en.wikipedia.org/wiki/Doughnut_(economic_model)#:~:text=The%20Doughnut%2C%20or%20Doughnut%20economics,a%20hole%20in%20the%20middle.)
 
 ## Licentie
 
