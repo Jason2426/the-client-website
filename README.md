@@ -18,8 +18,9 @@
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
+## Bronnen 
 
-
+[Bronnen](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
 
 ## Licentie
 
