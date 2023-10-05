@@ -21,9 +21,9 @@ nav {
     height: 100vh;
     & a {
     
-      padding: 1em 8px 6px 16px;
+      padding: 1.3em 8px 6px 16px;
       text-decoration: none;
-      font-size: 25px;
+      font-size: 1.2em;
       color: #010101;
       display: block;
       
@@ -46,6 +46,12 @@ nav {
   }
   main {
     grid-area: main;
+  }
+  section{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 2fr;
   }
 
   
