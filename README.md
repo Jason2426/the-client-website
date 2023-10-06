@@ -20,6 +20,7 @@
 ## Debriefing
 [debriefing_hand-footprint_squad1E (1).pdf](https://github.com/Jason2426/the-client-website/files/12829063/debriefing_hand-footprint_squad1E.1.pdf)
 
+
 ## Bronnen 
 
 [SDG Goals](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
