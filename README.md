@@ -27,6 +27,8 @@
 
 [Donut Economics Explained](https://en.wikipedia.org/wiki/Doughnut_(economic_model)#:~:text=The%20Doughnut%2C%20or%20Doughnut%20economics,a%20hole%20in%20the%20middle.)
 
+[Dribbble Shots](https://dribbble.com/tags/dribbble-shot)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
