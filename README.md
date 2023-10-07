@@ -14,6 +14,10 @@
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+Ontwerp een webapplicatie waarmee een relatief klein bedrijf (tot ongeveer 100 man personeel) op een makkelijke, leuke manier geholpen wordt om zijn eigen handprint en footprint inzichtelijk te maken. De feitelijke situatie moet zo goed mogelijk worden gevisualiseerd.
+
+Er komt steeds meer Europese wetgeving die grote bedrijven verplicht om (jaarlijks) te rapporteren over de handprint en footprint. Maar kleinere bedrijven hoeven dat nog niet te doen. Het is ook best veel werk om alles te meten en in te vullen. Daarom is de opdracht om een web-applicatie te maken die dit makkelijk maakt.
+
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
