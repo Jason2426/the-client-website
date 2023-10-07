@@ -2,7 +2,7 @@
 
 # Hand / Footprint ✋🌍
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-Een dashboard waar je in een oog opslag kunt zien wat je hand/footprint is.
+Een dashboard waar je als klein bedrijf in een oog opslag kunt zien wat je hand/footprint is.
 
 ## Inhoudsopgave
 
