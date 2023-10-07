@@ -2,13 +2,14 @@
 
 # Hand / Footprint ✋🌍
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+Een dashboard waar je in een oog opslag kunt zien wat je hand/footprint is.
 
 ## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
+  * [📔Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+  * [📚Bronnen](#bronnen)
+  * [dLicentie](#licentie)
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
