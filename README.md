@@ -19,7 +19,10 @@ Ontwerp een webapplicatie waarmee een relatief klein bedrijf (tot ongeveer 100 m
 
 Als gebruiker wil ik in een oogopslag kunnen zien wat de status van mijn hand/footprint is. 
 
-<img width="1512" alt="Screenshot 2023-10-11 at 10 32 04" src="https://github.com/Jason2426/the-client-website/assets/143999883/3e772b47-5f06-4b0e-a168-b31ec9e0f8f1">
+<img width="1614" alt="Screenshot 2023-10-11 at 10 42 14" src="https://github.com/Jason2426/the-client-website/assets/143999883/933c8188-777c-44f4-aa86-1aeeeaef79f7">
+
+<img width="1614" alt="Screenshot 2023-10-11 at 10 40 19" src="https://github.com/Jason2426/the-client-website/assets/143999883/8a688490-e69a-4483-ae5b-5e01cd269939">
+
 
 
 ## Kenmerken
