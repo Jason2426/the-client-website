@@ -31,6 +31,42 @@ De website is gebouwd met HTML & CSS
 
 Tools die ik heb gebruikt : VS Code en Figma
 
+### Navigatiebar en Header
+In dit stuk code zie je de HTML elementen die ik heb gebruikt voor de nav en de header.
+```html
+
+<nav>
+        <a href="#">Logo</a>
+        <a href="#">Home</a>
+        <a href="#">Handprint</a>
+        <a href="#">Footprint</a>
+    </nav>
+
+    <header>
+        <h2>
+            Goodmorning Solebox
+            <span>22:22</span>
+        </h2>
+    </header>
+
+```
+### Header styling
+In dit stuk code kun je zien hoe ik de header style met de hand van CSS.
+
+```css
+header {
+    background: #1a7f86;
+    grid-area: header;
+    
+    & h2{
+      margin: 0.75em;
+      padding: 0em 1.2em 0em 1.2em;
+      color: #f2fdff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+```
 
 ## Debriefing
 [debriefing_hand-footprint_squad1E (1).pdf](https://github.com/Jason2426/the-client-website/files/12829063/debriefing_hand-footprint_squad1E.1.pdf)
