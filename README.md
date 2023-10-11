@@ -17,15 +17,17 @@ Een dashboard waar je als klein bedrijf in een oog opslag kunt zien wat je hand/
 <!-- Voeg een link toe naar Github Pages 🌐-->
 Ontwerp een webapplicatie waarmee een relatief klein bedrijf (tot ongeveer 100 man personeel) op een makkelijke, leuke manier geholpen wordt om zijn eigen handprint en footprint inzichtelijk te maken. De feitelijke situatie moet zo goed mogelijk worden gevisualiseerd.
 
-Er komt steeds meer Europese wetgeving die grote bedrijven verplicht om (jaarlijks) te rapporteren over de handprint en footprint. Maar kleinere bedrijven hoeven dat nog niet te doen. Het is ook best veel werk om alles te meten en in te vullen. Daarom is de opdracht om een web-applicatie te maken die dit makkelijk maakt.
+Als gebruiker wil ik in een oogopslag kunnen zien wat de status van mijn hand/footprint is. 
+
+<img width="1512" alt="Screenshot 2023-10-11 at 10 32 04" src="https://github.com/Jason2426/the-client-website/assets/143999883/3e772b47-5f06-4b0e-a168-b31ec9e0f8f1">
 
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+De website is gebouwd met HTML & CSS
 
-Tools : VS Code en Figma
+Tools die ik heb gebruikt : VS Code en Figma
 
-Gebruikte technieken : HTML & CSS
 
 ## Debriefing
 [debriefing_hand-footprint_squad1E (1).pdf](https://github.com/Jason2426/the-client-website/files/12829063/debriefing_hand-footprint_squad1E.1.pdf)
