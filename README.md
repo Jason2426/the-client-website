@@ -39,7 +39,7 @@ Gebruikte technieken : HTML & CSS
 
 [Dribbble Shots](https://dribbble.com/tags/dribbble-shot)
 
-[Voetafdruk van bedrijf uitrekenen] (https://www.quentic.nl/vakbijdragen/co2-voetafdruk-bedrijven/)
+[Voetafdruk van bedrijf uitrekenen](https://www.quentic.nl/vakbijdragen/co2-voetafdruk-bedrijven/)
 
 ## Licentie
 
