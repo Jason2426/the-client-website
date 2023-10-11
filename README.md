@@ -23,8 +23,6 @@ Als gebruiker wil ik in een oogopslag kunnen zien wat de status van mijn hand/fo
 
 <img width="1614" alt="Screenshot 2023-10-11 at 10 40 19" src="https://github.com/Jason2426/the-client-website/assets/143999883/8a688490-e69a-4483-ae5b-5e01cd269939">
 
-
-
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 De website is gebouwd met HTML & CSS
@@ -77,7 +75,6 @@ header {
 [Workshop Dorien over CSS]
 
 [Workshop Krijn Code Conventies] 
-
 
 
 ## Licentie
