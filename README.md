@@ -17,27 +17,65 @@ Een dashboard waar je als klein bedrijf in een oog opslag kunt zien wat je hand/
 <!-- Voeg een link toe naar Github Pages 🌐-->
 Ontwerp een webapplicatie waarmee een relatief klein bedrijf (tot ongeveer 100 man personeel) op een makkelijke, leuke manier geholpen wordt om zijn eigen handprint en footprint inzichtelijk te maken. De feitelijke situatie moet zo goed mogelijk worden gevisualiseerd.
 
-Er komt steeds meer Europese wetgeving die grote bedrijven verplicht om (jaarlijks) te rapporteren over de handprint en footprint. Maar kleinere bedrijven hoeven dat nog niet te doen. Het is ook best veel werk om alles te meten en in te vullen. Daarom is de opdracht om een web-applicatie te maken die dit makkelijk maakt.
+Als gebruiker wil ik in een oogopslag kunnen zien wat de status van mijn hand/footprint is. 
 
+<img width="1614" alt="Screenshot 2023-10-11 at 10 42 14" src="https://github.com/Jason2426/the-client-website/assets/143999883/933c8188-777c-44f4-aa86-1aeeeaef79f7">
+
+<img width="1614" alt="Screenshot 2023-10-11 at 10 40 19" src="https://github.com/Jason2426/the-client-website/assets/143999883/8a688490-e69a-4483-ae5b-5e01cd269939">
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+De website is gebouwd met HTML & CSS
 
-Tools : VS Code en Figma
+Tools die ik heb gebruikt : VS Code en Figma
 
-Gebruikte technieken : HTML & CSS
+### Navigatiebar en Header
+In dit stuk code zie je de HTML elementen die ik heb gebruikt voor de nav en de header.
+```html
 
-## Debriefing
-[debriefing_hand-footprint_squad1E (1).pdf](https://github.com/Jason2426/the-client-website/files/12829063/debriefing_hand-footprint_squad1E.1.pdf)
+<nav>
+        <a href="#">Logo</a>
+        <a href="#">Home</a>
+        <a href="#">Handprint</a>
+        <a href="#">Footprint</a>
+    </nav>
 
+    <header>
+        <h2>
+            Goodmorning Solebox
+            <span>22:22</span>
+        </h2>
+    </header>
+
+```
+### Header styling
+In dit stuk code kun je zien hoe ik de header style met de hand van CSS.
+
+```css
+header {
+    background: #1a7f86;
+    grid-area: header;
+    
+    & h2{
+      margin: 0.75em;
+      padding: 0em 1.2em 0em 1.2em;
+      color: #f2fdff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+```
 
 ## Bronnen 
 
-[SDG Goals](https://sinay.ai/en/what-are-the-17-sustainable-development-goals-sdgs/#:~:text=The%2017%20Sustainable%20Development%20Goals%20are%3A%20(1)%20no%20poverty,)
-
-[Donut Economics Explained](https://en.wikipedia.org/wiki/Doughnut_(economic_model)#:~:text=The%20Doughnut%2C%20or%20Doughnut%20economics,a%20hole%20in%20the%20middle.)
-
 [Dribbble Shots](https://dribbble.com/tags/dribbble-shot)
+
+[Voetafdruk van bedrijf uitrekenen](https://www.quentic.nl/vakbijdragen/co2-voetafdruk-bedrijven/)
+
+[Workshop Dorien over CSS]
+
+[Workshop Krijn Code Conventies] 
+
 
 ## Licentie
 
