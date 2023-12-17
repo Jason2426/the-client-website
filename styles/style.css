@@ -1,0 +1,52 @@
+:root {
+  /* Colors */
+  --background-color: #272932;
+  --background-color2: #383A47;
+  --primairy-color: #947EB0;
+  --secondary-color: #519879;
+  --accent-color: #FB8B24;
+
+  /* Font */
+  --bold-font: 'HaltonBold', sans-serif;
+  --semiBold-font: 'Light', sans-serif;
+  --regular-font: 'HaltonRegular', sans-serif;
+  --light-font: 'HaltonLight', sans-serif;
+
+  --text-color: #ECF8F8;
+
+}
+
+/* Load in fonts */
+@font-face {
+  font-family: 'HaltonBold';
+  src: url('/font/Halton/Halton-bold.ttf');
+}
+
+@font-face {
+  font-family: 'HaltonSemiBold';
+  src: url('/font/Halton/Halton-semi-bold.ttf');
+}
+
+@font-face {
+  font-family: 'HaltonRegular';
+  src: url('/font/Halton/Halton-regular.ttf');
+}
+
+@font-face {
+  font-family: 'HaltonLight';
+  src: url('/font/Halton/Halton-light.ttf');
+}
+
+/* Styling starts here */ 
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: var(--background-color);
+  font-family: var(--bold-font);
+  margin: 0;
+}
+  
