@@ -11,9 +11,7 @@
   --semiBold-font: 'Light', sans-serif;
   --regular-font: 'HaltonRegular', sans-serif;
   --light-font: 'HaltonLight', sans-serif;
-
   --text-color: #ECF8F8;
-
 }
 
 /* Load in fonts */
@@ -47,6 +45,7 @@
 body{
   background: var(--background-color);
   font-family: var(--bold-font);
+  color: var(--text-color);
   margin: 0;
 }
   
