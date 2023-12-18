@@ -1,8 +1,8 @@
 :root {
   /* Colors */
-  --background-color: #272932;
-  --background-color2: #383A47;
-  --primairy-color: #947EB0;
+  --primary-bg-color: #272932;
+  --secondary-bg-color: #383A47;
+  --primary-color: #947EB0;
   --secondary-color: #519879;
   --accent-color: #FB8B24;
 
@@ -12,6 +12,10 @@
   --regular-font: 'HaltonRegular', sans-serif;
   --light-font: 'HaltonLight', sans-serif;
   --text-color: #ECF8F8;
+
+  /* Margins */
+  --primary-spacing: 1em;
+  --secondary-spacing: 2em;
 }
 
 /* Load in fonts */
@@ -35,17 +39,82 @@
   src: url('/font/Halton/Halton-light.ttf');
 }
 
-/* Styling starts here */ 
+/* Styling starts here */
 
 * {
   margin: 0;
   padding: 0;
 }
 
-body{
-  background: var(--background-color);
-  font-family: var(--bold-font);
+body {
+  background: var(--primary-bg-color);
+  font-family: var(--light-font);
   color: var(--text-color);
-  margin: 0;
 }
-  
+
+header {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+logo {
+  font-family: var(--bold-font);
+  text-decoration: underline;
+  text-decoration-color: #23A8FE;
+  text-underline-offset: 0.35em;
+  text-decoration-thickness: 0.1em;
+}
+
+nav {
+  position: absolute;
+  background: var(--secondary-bg-color);
+  padding: 0.5em 1em 0.5em 1em;
+  right: 0;
+  top: 1.5em;
+  border-radius: 5px 0 0 5px;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.main-container {
+  background: var(--secondary-bg-color);
+  padding: var(--secondary-spacing);
+  border-radius: 1em;
+  margin: var(--secondary-spacing);
+}
+
+h1 {
+  font-family: var(--bold-font);
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+  font-family: var(--semiBold-font);
+}
+
+/* Button Styling */
+
+.start-btn {
+  background-color: #23AD6F;
+  font-family: var(--semiBold-font);
+  color: var(--text-color);
+  text-decoration: none;
+  margin: 1em;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+/* IMG styling */
+
+.earth-style {
+  width: 12.5em;
+  height: 12.5em;
+  margin: 1em;
+}
