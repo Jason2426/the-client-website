@@ -16,6 +16,7 @@
   /* Margins */
   --primary-spacing: 1em;
   --secondary-spacing: 2em;
+  --tertiary-spacing: 3em; 
 }
 
 /* Load in fonts */
@@ -55,7 +56,7 @@ body {
 header {
   display: flex;
   justify-content: center;
-  margin: 2em;
+  margin: var(--secondary-spacing);
 }
 
 logo {
@@ -65,6 +66,7 @@ logo {
   text-underline-offset: 0.35em;
   text-decoration-thickness: 0.1em;
 }
+
 /* Sidebar */
 nav {
   position: absolute;
@@ -75,9 +77,12 @@ nav {
   border-radius: 5px 0 0 5px;
 }
 
-
 ul {
   list-style-type: none;
+}
+
+.sidebar .close ul {
+  display: none;
 }
 
 /* Einde sidebar */
@@ -125,4 +130,52 @@ a:visited {
   width: 12.5em;
   height: 12.5em;
   margin: 1em;
+}
+
+/* Desktop media query */ 
+@media screen and (min-width: 748px) {
+
+  .main-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    background-color: var(--secondary-bg-color);
+    padding: var(--primary-spacing);
+    margin: 2em 6em 2em 6em;
+    border-radius: var(--primary-spacing);
+
+  }
+  logo {
+    margin: 1em 1em 1em 3em;
+  }
+  nav {
+    display: none;
+  }
+  .main-container {
+    margin: 0 6em 0 6em;
+    padding: 5em;
+  }
+  h1 {
+    font-size: 3em;
+  }
+  .earth-style {
+    width: 21em;
+    height: 21em;
+  }
+  .first {
+    margin-left: 5em; 
+  }
+  .second{
+    margin-left: 6em;
+  }
+  p{
+    font-family: var(--light-font);
+    font-size: 1.25em;
+  }
 }
